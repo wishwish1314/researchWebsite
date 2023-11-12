@@ -1,0 +1,181 @@
+
+.grid{
+  margin-top: 2rem;
+}
+
+/* next */
+.next{
+   display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.next a{
+  font-size:1rem;
+}
+.next a:hover {
+  color: #50E3C2;
+}
+
+
+/* image */
+
+.center{
+  margin:auto;
+  background-color: rgb(243,243,243);
+  margin-top: 8rem;
+  margin-bottom: 8rem;
+  height: 100%;
+}
+
+
+.highlight-title{
+  color:grey !important;
+}
+
+.highlight-question{
+    font-size:1.2rem !important;
+    font-weight: 600 !important;
+}
+
+
+.project .center img{
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  margin:auto;
+  width:50% ;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.center5{
+  margin:auto;
+  background-color: rgb(243,243,243);
+  margin-top: 8rem;
+  margin-bottom: 8rem;
+  height: 100%;
+}
+
+
+.project .center5 img{
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  margin:auto;
+  width:80% ;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.project img{
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  width: 100%;
+}
+
+.project img:hover {
+  -webkit-transform: scale(1.05);
+  transform: scale(1.05);
+}
+
+.center video{
+   width:100%;
+   margin:auto;
+}
+
+
+/* project-title*/
+
+.project-title{
+  height: 300px;
+}
+
+.project-title h1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0px ;
+  padding-bottom: 0px ;
+   color:black;
+   font-size:3rem;
+   line-height: 1.5
+   -webkit-font-smoothing: antialiased;
+    margin-top: 2rem;
+  font-weight: 800 ;
+
+}
+
+.project-title p{
+  font-size:1rem;
+  margin-top: 10px ;
+  padding-top: 0px ;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 1rem;
+  font-weight: 200 ;
+  margin-bottom: 1rem;
+}
+
+
+
+/* project*/
+
+.project h3{
+   padding-top: 1rem;
+   padding-right: 2rem;
+   line-height: 2;
+   font-size:18px;
+  color:black;
+  letter-spacing: 0.5px;
+  font-weight: 600;
+
+}
+.project p{
+    color:black;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    font-size:1rem;
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+
+
+
+/* project lists*/
+
+.project ul{
+  margin-left: 1rem;
+  list-style-type: square;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.project li{
+  line-height: 1.8rem;
+  font-size: 1vw;
+  font-weight: 300;
+  padding-bottom: 0.2rem;
+}
+
+
+
+/*blockquote*/
+
+blockquote{
+    padding: 20px 30px;
+    margin: 0 0 20px;
+    font-size: 17.5px;
+    line-height: 1.8rem;
+    border-left: 5px solid #50E3C2;
+    font-weight: 600;
+    color: black;
+
+}
+

@@ -1,0 +1,46 @@
+
+
+.slide:first-child {
+  display: block;
+}
+
+
+.slide:nth-of-type(1) {
+  background: url("../images/txdot/1.jpg") ;
+  background-size: cover;
+
+}
+.slide:nth-of-type(2) {
+background: url("../images/txdot/2.jpg") ;
+  background-size: cover;
+}
+
+.slide:nth-of-type(3) {
+background: url("../images/txdot/3.jpg") ;
+  background-size: cover;
+}
+.slide:nth-of-type(4) {
+background: url("../images/txdot/4.jpg") ;
+  background-size: cover;
+}
+
+.slide:nth-of-type(5) {
+background: url("../images/txdot/5.jpg") ;
+  background-size: cover;
+}
+
+.slide:nth-of-type(6) {
+background: url("../images/txdot/6.jpg") ;
+  background-size: cover;
+}
+
+.slide:nth-of-type(7) {
+background: url("../images/txdot/7.jpg") ;
+  background-size: cover;
+}
+
+
+.slide:nth-of-type(8) {
+background: url("../images/txdot/8.jpg") ;
+  background-size: cover;
+}

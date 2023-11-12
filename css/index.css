@@ -1,0 +1,109 @@
+
+
+/*introduction*/
+
+h1{
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 1.1;
+  width:100%;
+  letter-spacing: 0rem;
+}
+
+p{
+  padding-top: 0.8rem;
+  width:100%;
+  line-height: 1.8;
+  font-size: 1rem;
+  font-weight: 100;
+}
+
+.lu{
+  font-size: 2rem;
+  color:#50E3C2;
+  font-weight: 100;
+  letter-spacing: -0.5px;
+}
+
+.connection{
+  font-weight: 100;
+  letter-spacing: 0px;
+  font-size: 0.8rem;
+  padding-right: 1.2rem;
+  padding-bottom: 3rem;
+}
+
+.role{
+font-weight: 600;
+letter-spacing: 0.5px;
+
+}
+
+/*All*/
+.index-container{
+  margin: auto;
+  padding: 0 1rem;
+  max-width: 71.25rem;
+  width: 55%
+
+}
+
+#content{
+    margin-top:2rem;
+    font-size: 0.8rem;
+
+}
+
+#content a{
+  font-size: 0.8rem;
+ font-weight: 600;
+ letter-spacing: 0.05rem;
+}
+
+#content li{
+    line-height: 1.8;
+
+}
+
+.item{
+background-color: #f6f6f6;
+  margin-top:1rem;
+  color:#282828;
+}
+
+.item p{
+  margin-bottom: 0rem;
+}
+
+
+
+.item li{
+  line-height: 1.5;
+  font-weight: 100;
+  padding-top: 0.3rem;
+  text-decoration: none;
+  list-style:none;
+  padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 0.2rem;
+
+}
+
+
+
+
+.social li {
+  display: inline-block;
+}
+
+.social li:nth-child(2) {
+  margin-left: 0.5rem;
+}
+
+.social li:nth-child(3) {
+  margin-left: 0.5rem;
+}
+
+
